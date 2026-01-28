@@ -1,0 +1,14 @@
+Package: descriptiveStats
+Title: Descriptive Statistics Utilities
+Version: 0.0.0.9000
+Authors@R: 
+    person("Harish", , , "c.harish1996@outlook.com", role = c("aut", "cre"))
+Description: A small utility package implementing basic descriptive
+    statistics with robust edge-case handling and documentation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
